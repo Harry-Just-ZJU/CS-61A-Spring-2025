@@ -6,11 +6,11 @@ The CS 61 series is an introduction to computer science, with particular emphasi
 
 ## Useful Links
 
-CS 61A (https://cs61a.org/)
+[CS 61A] (https://cs61a.org/)
 
-Textbook (https://www.composingprograms.com/)
+[Textbook] (https://www.composingprograms.com/)
 
-Python Tutor (https://pythontutor.com/cp/composingprograms.html#mode=edit)
+[Python Tutor] (https://pythontutor.com/cp/composingprograms.html#mode=edit)
 
 ## Still updating
 
