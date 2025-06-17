@@ -12,6 +12,10 @@ The CS 61 series is an introduction to computer science, with particular emphasi
 
 [Python Tutor](https://pythontutor.com/cp/composingprograms.html#mode=edit)
 
+## The Spring 2025 is archived (Need Berkerly account)
+
+use [Web archive](https://web.archive.org/web/20250503022602/https://cs61a.org/) can trace back.
+
 ## Still updating
 
 The author is a student and self-study CS61a in the spare time.
