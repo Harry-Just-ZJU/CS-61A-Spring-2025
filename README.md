@@ -16,6 +16,10 @@ The CS 61 series is an introduction to computer science, with particular emphasi
 
 use [Web archive](https://web.archive.org/web/20250503022602/https://cs61a.org/) can trace back.
 
+## The Forum
+
+[CS自学社区](https://www.learncs.site/docs/curriculum-resource/cs61a)
+
 ## Still updating
 
 The author is a student and self-study CS61a in the spare time.
